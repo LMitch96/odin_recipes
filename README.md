@@ -1,1 +1,2 @@
 # odin_recipes
+This project is to create a webpage that outlines some basic recipes. Part of completing this project is using a combination of commands/attributes to succesfully code a webpage. Prior to starting, I believe some of these basic commands will involve paraghraphs, images, hypertext, and more. 
